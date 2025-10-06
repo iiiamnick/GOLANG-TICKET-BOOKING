@@ -1,17 +1,17 @@
 # GOLANG-TICKET-BOOKING
 
-    A simple **Command-Line Interface (CLI)** ticket booking application written in Go.  
-    This project demonstrates the basics of Go programming — variables, functions, loops, conditionals, and concurrency — through a fun, interactive ticket booking example.
+ A simple **Command-Line Interface (CLI)** ticket booking application written in Go.  
+ This project demonstrates the basics of Go programming — variables, functions, loops, conditionals, and concurrency — through a fun, interactive ticket booking example.
 
 ---
 
 ##  Features
 
-    * Book tickets for an event through the terminal
-    * Input validation for name, email, and ticket count
-    * Real-time tracking of remaining tickets
-    * Concurrency using Go routines to simulate asynchronous booking confirmation
-    * Simple and beginner-friendly Go code structure
+* Book tickets for an event through the terminal
+* Input validation for name, email, and ticket count
+* Real-time tracking of remaining tickets
+* Concurrency using Go routines to simulate asynchronous booking confirmation
+* Simple and beginner-friendly Go code structure
 
 ---
 
@@ -43,24 +43,24 @@
 
 ## Concepts Covered
 
-    Variables, constants, and data types
+Variables, constants, and data types
 
-    Arrays, slices, and loops
+Arrays, slices, and loops
 
-    Functions and return values
+ Functions and return values
 
-    Structs and packages
+Structs and packages
 
-    Concurrency with goroutines and channels
+Concurrency with goroutines and channels
 
-    User input handling in Go
+User input handling in Go
 
 ## Requirements
 
-    Go 1.20 or higher
+ Go 1.20 or higher
 
-    Terminal / command prompt access
+Terminal / command prompt access
 
 ## About
 
-    This project is intended as a learning exercise for beginners in Go to understand program flow, functions, and concurrency by building a small but functional CLI application.
+This project is intended as a learning exercise for beginners in Go to understand program flow, functions, and concurrency by building a small but functional CLI application.
